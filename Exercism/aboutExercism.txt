@@ -1,0 +1,33 @@
+Exercism:
+>> Exercism is a free, open-source learning platform where you practice,
+   >> Practice real programming exercises
+   >> 70+ programming languages
+   >> Get automated tests
+   >> Receive human mentorship feedback
+   >> Learn idiomatic code, not just "works some how code"
+>> Simply, Exercism = LeetCode (practice) + GitHub (open source) + Mentors (code review)
+
+What can we do on Exercism?
+>> Practice Coding
+>> Get mentorship - real developers review your code.
+>> Contribute to open source - Adding new exercises, improving existing tests, fixing docs, improving website/backend, improving api docs.
+   >> This counts as real open source contribution
+
+Exercism API:
+>> Exercism exposes public APIs that provides structured data about the platform.
+
+>> common API data includes form Exercism:
+   >> languages (track)
+   >> Exercises per language 
+   >> Difficulty levels
+   >> Concept taught
+   >> User solutions
+   >> Mentors and tracks metadata
+   >> Exercise status and progression
+
+What we should do using Exercism API:
+>> Language practice dashboard
+>> What should i learn next ? 
+>> Exercise explorer website
+>> Progress tracker
+>> 
