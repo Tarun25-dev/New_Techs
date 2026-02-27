@@ -1,0 +1,7 @@
+Capabilities of Clawbot:
+>> Automate inbox workflows
+>> Executes scripts and commands on your system.
+>> Analyze data and generate reports
+>> Schedule and coordinate tasks 
+>> Integrate with messaging platforms like Whatsapp, Telegram, Slack, etc.
+>> Support extensible skills and plugins to extent functionality
