@@ -1,0 +1,8 @@
+<!-- Claude AI vs Traditional AI Models -->
+
+| Traditional AI              | Claude AI                         |
+| --------------------------- | --------------------------------- |
+| Focus mainly on performance | Focus on performance + safety     |
+| Limited context handling    | Strong long-context understanding |
+| Basic instruction following | Principle-based alignment         |
+| Less transparency           | Designed for ethical AI use       |
