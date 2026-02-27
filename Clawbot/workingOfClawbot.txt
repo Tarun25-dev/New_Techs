@@ -1,0 +1,5 @@
+How it works?
+>> It built as personal AI infrastructure you deploy yourself
+>> You choose which ai models powers it (eg,. claude, GPT, or local models)
+>> You interact with it via your prefferd messaging apps or dashboard 
+>> You retain full control over data and execution rights.
