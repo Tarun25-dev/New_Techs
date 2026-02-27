@@ -1,0 +1,9 @@
+Clawbot:
+>> Clawbot is a next generation AI assistant that runs on your own infrastructure (like your computer or a cloud server) and acts autonomously rather than just responding to questions.
+>> Its a part of a new wave of AI agents that can execute tasks, automate workflows, and integrate with every day digital tools.
+
+What Clawbot make different?
+>> Unlike classic chatbots (e.g., ChatGPT), Clawbot doesn’t just answer prompts — it performs actions on your behalf. It is designed around principles of:
+>> Autonomy – acting proactively without needing a question every time
+>> Privacy & Data Control – runs on hardware you control, keeping data local
+>> Execution of Real Tasks – can run shell commands, control apps, manage files, etc.
