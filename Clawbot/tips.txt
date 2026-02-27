@@ -1,0 +1,4 @@
+Tips before using Clawbot:
+>> Beacuse it performs real actions on your system, you should:
+>> Carefully manage permissions and security 
+>> Review actions before automation for sensitive systems 
