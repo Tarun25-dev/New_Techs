@@ -1,0 +1,9 @@
+Features of Clawbot:
+
+| Feature                         | What It Means                                    |
+| ------------------------------- | ------------------------------------------------ |
+| **Local Deployment**            | Runs on your own machine/server                  |
+| **Task Automation**             | Actively performs tasks, not just replies        |
+| **Multi-Platform Messaging**    | Works across WhatsApp, Telegram, Slack, and more |
+| **Extendable Skills Ecosystem** | Add plugins and integrations                     |
+| **Model-Agnostic**              | Use Claude, GPT, or other models                 |
